@@ -31,11 +31,11 @@ output: html_document
 
 Acerca del capítulo III, me gustó mucho como está estructurado y fue un buen repaso de las fortalezas y debilidades teóricas del HSM (MDS). El título en si es atractivo, *¿What drives species distributions?* una pregunta genial, y parece que la respuesta está integrada por 3 condiciones que interactúan a una suerte de principio de incertidumbre que determinan donde puede habitar una especie y donde no.
 
-a) acceso o movilidad de la sp: entiendo que hace alusión al área que puede dispersarse o invadir una especie. Definir el área de acceso nos obliga a conocer la historia biogeográfica de la especie que estemos modelando, pero saber dónde se originó nuestra especie nos conduce al campo de la Filogeografia.
+a)  acceso o movilidad de la sp: entiendo que hace alusión al área que puede dispersarse o invadir una especie. Definir el área de acceso nos obliga a conocer la historia biogeográfica de la especie que estemos modelando, pero saber dónde se originó nuestra especie nos conduce al campo de la Filogeografia.
 
-b) hábitat idóneo, integrado por factores abióticos que no pueden ser modificados por las especies (esto parece ser solido en vertebrados terrestres) con tolerancias térmicas o eco fisiológicas definidas como aves endémicas o restringidas a determinados hábitat.
+b)  hábitat idóneo, integrado por factores abióticos que no pueden ser modificados por las especies (esto parece ser solido en vertebrados terrestres) con tolerancias térmicas o eco fisiológicas definidas como aves endémicas o restringidas a determinados hábitat.
 
-c) interacciones bióticas de las sp.: este punto podría englobarse en poblaciones sometidas a selección natural como para hacerlo más engorroso jaja ¿es necesario para determinar el nicho ambiental o las distribuciones de las especies?
+c)  interacciones bióticas de las sp.: este punto podría englobarse en poblaciones sometidas a selección natural como para hacerlo más engorroso jaja ¿es necesario para determinar el nicho ambiental o las distribuciones de las especies?
 
 ## MDS
 
